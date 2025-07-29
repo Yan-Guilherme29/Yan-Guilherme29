@@ -39,27 +39,27 @@
 
 
 
-### 📂 Meus principais projetos
+## 📂 Meus principais projetos
 
 ...
 
 
 
-### 🎓 Formação
+## 🎓 Formação
 
 - 📘 Curso: [Engenharia de Software]
 - 🏫 Instituição: [Centro Universitário Alfredo Nascer]
 - 📅 Período: [2024] — [2027]
 
----
 
-### 📜 Certificações
+
+## 📜 Certificações
 
 ...
 
 
 
-### 📫 Contato
+## 📫 Contato
 
 - 📧 Email: yanguilherme2927@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yan-guilherme-dev-backend)
