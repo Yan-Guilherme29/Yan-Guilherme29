@@ -10,6 +10,7 @@
 
 
 ## 🧰 Tecnologias
+---
 
 ### Linguagens
 
