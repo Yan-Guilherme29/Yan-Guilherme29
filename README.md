@@ -7,64 +7,148 @@
 📍 Goiânia - GO | 4º período de Engenharia de Software  
 🚀 Em busca de aprender, evoluir e contribuir com projetos reais.
 
+---
 
 
 ## 🧰 Tecnologias
 
-
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img 
+  align="left" 
+  alt="Python"
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        
+<img 
+  align="left" 
+  alt="Java"
+  title="Java" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+<img 
+  align="left" 
+  alt="Node.JS"
+  title="Node.JS" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> <br>
+
+
 
 ### Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+<img 
+  align="left" 
+  alt="Spring Boot"
+  title="Spring Boot" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+
+<img 
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> <br>
+          
+
 
 
 ### Banco de Dados
+  <img
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ <img
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+          
+<img
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /><br>
+          
 
 ### Outros
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
+<img
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+          
+
+<img
+  align="left" 
+  alt="Django"
+  title="Django" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> <br>
+          
+---
 
 
-
-
-## 📂 Meus principais projetos
+### 📂 Meus principais projetos
 
 ...
 
 
+---
 
-## 🎓 Formação
+### 🎓 Formação
 
 - 📘 Curso: [Engenharia de Software]
 - 🏫 Instituição: [Centro Universitário Alfredo Nascer]
 - 📅 Período: [2024] — [2027]
 
+---
 
-
-## 📜 Certificações
+### 📜 Certificações
 
 ...
 
+---
 
-
-## 📫 Contato
+### 📫 Contato
 
 - 📧 Email: yanguilherme2927@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yan-guilherme-dev-backend)
-
+---
 
 <p align="center">
   Feito com 💻 e ☕ por Yan
 </p>
+
+---
