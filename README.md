@@ -10,7 +10,7 @@
 
 
 ## 🧰 Tecnologias
----
+
 
 ### Linguagens
 
@@ -37,15 +37,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
----
+
 
 ### 📂 Meus principais projetos
 
 ...
 
 
-
----
 
 ### 🎓 Formação
 
@@ -59,13 +57,13 @@
 
 ...
 
----
+
 
 ### 📫 Contato
 
 - 📧 Email: yanguilherme2927@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yan-guilherme-dev-backend)
----
+
 
 <p align="center">
   Feito com 💻 e ☕ por Yan
