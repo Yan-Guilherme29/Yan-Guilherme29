@@ -1,3 +1,3 @@
-# 👩🏻‍💻 Yan Guilherme Siqueira Gomides
+#  Yan Guilherme Siqueira Gomides
 
 
