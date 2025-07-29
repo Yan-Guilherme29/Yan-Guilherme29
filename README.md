@@ -66,8 +66,8 @@
 ### Banco de Dados
   <img
   align="left" 
-  alt="Django"
-  title="Django" 
+  alt="MySQL"
+  title="MySQL" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -75,16 +75,16 @@
 
  <img
   align="left" 
-  alt="Django"
-  title="Django" 
+  alt="PostgreSQL"
+  title="PostgreSQL" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
           
 <img
   align="left" 
-  alt="Django"
-  title="Django" 
+  alt="MongoDB"
+  title="MongoDB" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /><br>
@@ -94,16 +94,16 @@
 
 <img
   align="left" 
-  alt="Django"
-  title="Django" 
+  alt="Docker"
+  title="Docker" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           
 <img
   align="left" 
-  alt="Django"
-  title="Django" 
+  alt="Git"
+  title="Git" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
@@ -111,8 +111,8 @@
 
 <img
   align="left" 
-  alt="Django"
-  title="Django" 
+  alt="Postman"
+  title="Postman" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> <br>
